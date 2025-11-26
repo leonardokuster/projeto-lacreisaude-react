@@ -72,13 +72,13 @@ export default function Footer() {
                     <IconButton href="https://www.facebook.com/lacrei.saude/" target="_blank" rel="noopener noreferrer" color="inherit">
                         <FacebookIcon color="success"/>
                     </IconButton>
-                    <IconButton href="https://www.instagram.com/lacrei.saude" target="_blank" rel="noopener noreferrer" color="red">
+                    <IconButton href="https://www.instagram.com/lacrei.saude" target="_blank" rel="noopener noreferrer" color="inherit">
                         <InstagramIcon color="success" />
                     </IconButton>
-                    <IconButton href="https://www.linkedin.com/company/lacrei" target="_blank" rel="noopener noreferrer" color="var(--color-primary)">
+                    <IconButton href="https://www.linkedin.com/company/lacrei" target="_blank" rel="noopener noreferrer" color="inherit">
                         <LinkedInIcon color="success" />
                     </IconButton>
-                    <IconButton href="contato@lacreisaude.com.br" target="_blank" rel="noopener noreferrer" color="var(--color-primary)">
+                    <IconButton href="contato@lacreisaude.com.br" target="_blank" rel="noopener noreferrer" color="inherit">
                         <MailOutlineIcon color="success" />
                     </IconButton>
                 </Box>
